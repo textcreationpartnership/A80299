@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning the congregation of Iesuits held at London April 24. 1678. which Mr. Oates calls à consult</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80299</idno>
+            <idno type="STC">Wing C5695C</idno>
+            <idno type="STC">ESTC R231315</idno>
+            <idno type="EEBO-CITATION">99897275</idno>
+            <idno type="PROQUEST">99897275</idno>
+            <idno type="VID">136979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2477:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning the congregation of Iesuits held at London April 24. 1678. which Mr. Oates calls à consult</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Douai? :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705 --  Early works to 1800.</term>
+               <term>Jesuits --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:136979:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>Concerning the <hi>Congregation</hi> of Ieſuits held at <hi>London</hi> April 24. 1678. which <hi>M<hi rend="sup">r.</hi> Oates</hi> calls <hi>à Conſult.</hi>
+            </head>
+            <p>AS no one thing ſeemes to have given more colour to the calumnyes of M<hi rend="sup">r.</hi> 
+               <hi>Oates</hi> againſt Catholicks, &amp; allarmed the nation, then à Congregation of Ieſuits held in <hi>London,</hi> Apr. 24. 1678. where in he ſweares Treaſonable things were treated; ſoe no one thing can more conduce to the Clearing of thoſe Iealouſyes rayſed by theſe Calumnyes, then à tru account of the intent of that Congregation: for this being the foundation of a greate part of his Accuſations, if it falls to the ground, the reſt can ſcarce ſubſiſt.</p>
+            <p>
+               <hi>Provinciall Congregations</hi> all over the Society are called in each Province by their reſpective Provincialls every three yeares. <hi>Ad eli<g ref="char:EOLhyphen"/>gendos tertio quoque anno Procuratores.</hi> Say their Conſtitutions, Formula Congreg. Prov. c. 1. p. 51. And the laſt yeare 1678. was of courſe aſſigned for them. Hence about that ſame time, the Flemiſh Ieſuits held a like Congregation at Antwerpe, the Walloones at Lile, the French at Paris, the Gaſcons at Bourdeaux, the Languedocians at Touloſe, thoſe of Champagne at Rhemes, thoſe of Provence &amp; Dauphine at Lyons, &amp; thoſe of Spayne, Italy, &amp; Germany, in their re<g ref="char:EOLhyphen"/>ſpective cheife townes, &amp; Colledges. Soe that this Congregation was nothing particular to Ingland, but common to all Europe. And a like Aſſembly had beene held by Ingliſh Ieſuits every three yeares, ever ſince they were made à Province by themſelves, under à Pro<g ref="char:EOLhyphen"/>vinciall of their onne Nation.</p>
+            <p>The intent of theſe Congregations is ſpecifyed in the Conſtitu<g ref="char:EOLhyphen"/>tions above cited, viz, <hi>to chooſe as Procurator, one of them to goe to Rome, to
+<pb n="2" facs="tcp:136979:2"/>
+                  <!-- PDF PAGE 17 -->
+informe the Generall of their particular, &amp; private affayres.</hi> Which Conſtitu<g ref="char:EOLhyphen"/>tions are in the hands of Severall <hi>Proteſtants</hi> in Ingland.</p>
+            <p>The Perſons capable of entring into it, are firſt, <hi>Actual Superiors.</hi> Secondly the <hi>Procurator of the Province.</hi> Thirdly ſoe many of the an<g ref="char:EOLhyphen"/>cienteſt <hi>Profeſt Fathers,</hi> as with thoſe others may make vp the num<g ref="char:EOLhyphen"/>ber of <hi>forty perſons.</hi> That number is preſcribed by the <hi>Conſtitutions:</hi> to which, for the Confirmation of all this I appeale.</p>
+            <p>
+               <hi>M. Titus Oates</hi> was not preſent at that held an. 1678. firſt becauſe he was all that time at S. Omers, as appeares, by the <hi>Oathes</hi> of Seve<g ref="char:EOLhyphen"/>rall perſons, who dwelt with him all that time there. Secondly be<g ref="char:EOLhyphen"/>cauſe he never wore a Ieſuits habit one houre, he never was ſoe much as <hi>Novice</hi> amongſt the Ieſuits: And by conſequence was not capable of aſſiſting in ſuch an Aſſembly. He pretends to have beene capacitated to it by a <hi>Particular Patent</hi> from the General of the <hi>Ieſuits:</hi> but this pretence is ridiculous to underſtanding men, how plauſible ſoe euer it ſeemes to ſome in Ingland: for firſt it is not in the power of the Generall to act ſo much contrary to the Conſtitutions, &amp; ſe<g ref="char:EOLhyphen"/>condly if his Power had reached to that, yet certainly he would never make uſe of it in favour of a perſon, who for his miſdemea<g ref="char:EOLhyphen"/>nours had beene turned out of one Colledge by the Ieſuits, &amp; had carryed him ſelf ſoe ill in the other, that uppon greate complaints, the Superiors were then actually reſolved to turne him out of a no<g ref="char:EOLhyphen"/>ther, where he then reſided.</p>
+            <p>The Place for the Congregation was London, rather then any place beyond ſeas: becauſe only the ancienteſt men of their body being to meete, (beſides the actuall Superiors, &amp; Procurator) &amp; the greateſt part of theſe being in Ingland, it could not without very greate difficulty, &amp; danger, be held beyond ſeas. The preſent calme, they then enjoyed, through the Indulgence of the Government, ſeemed to permit it: yet ſeing all their Perſons were obnoxious to the Law, <hi>Secrecy</hi> was enioyned, as neceſſary for their ſecurity.</p>
+            <p>
+               <hi>M. Tonſtall</hi> by his Antiquity of his Profeſſion having <hi>Ius Suffragii,</hi> ryght to à voice in the Congregation, M<hi rend="sup">r</hi> 
+               <hi>Edward Peters</hi> his neygh bour had order from the Provinciall to ſummon him to it. And this was the occaſion of that Letter dated 23. Feb. 1677. But M<hi rend="sup">r.</hi> Oates
+<pb n="3" facs="tcp:136979:2"/>
+               <!-- PDF PAGE 17 -->
+very falſly makes M<hi rend="sup">r.</hi> Peters ſay, that he had writ to the Ieſuits in <hi>Warwicks hire,</hi> and <hi>Worceſter shire:</hi> for with theſe he had as little to doe, as with the Ieſuits in France, Spaine, or Flanders.</p>
+            <p>This is enough to uncypher that Letter of Mr. Edward Peters, to Mr. Tonſtall, which was thought ſoe myſterious, &amp; ſoe greate à Conviction of the pretended Plot. I will adde à word to expli<g ref="char:EOLhyphen"/>cate the Latin, Leaſt thoſe wiſe &amp; learned men, who turned it into Barbarous Language should hereafter uſe it as another Evidence of à more <hi>Barbarous</hi> Conſpiracy. The tru import of the words are: <hi>Tria pro Domino N. N.</hi> (the Perſon's name) <hi>benefactore Provinciae N.</hi> Which is the ordinary forme of Commanding Prayers for ſuch perſons, who by their Charity to any part of the Society, deſerve ſuch à returne of gratitude from the whole body.</p>
+            <p>Sir <hi>Samuel Baldwin,</hi> in the try all of M<hi rend="sup">r.</hi> 
+               <hi>Irlande</hi> pag. 54. thought it à Confirmation of M<hi rend="sup">r.</hi> Oates his Evidence, that he hit on the day of the Congregation, before that letter was found. Yet at S. Omers where M<hi rend="sup">r.</hi> 
+               <hi>Oates</hi> all that time was, without any revelation, it myght be knowne to all, as ſoone as the thing was over: for thoſe who returned that way, made no difficulty to ſpeake of it, Little ap<g ref="char:EOLhyphen"/>prehending, that ſoe Innocent an Aſſembly, as to its end, &amp; the things handled in it, could be ſoe maliciouſly repreſented, as they have ſince experienced, to their aſtonishment &amp; the wonder of all men, who know the Ieſuits, &amp; their Government: or that ſuch malicious calumnyes, could find ſuch credit in à civilized nation.</p>
+            <p>The place of their meeting was not at the <hi>white horſe Taverne,</hi> nor in the <hi>Strand.</hi> I have enquired of Severall, who were preſent: &amp; moſt ſayd, they knew not ſoe much, as that there was à <hi>White horſe Ta<g ref="char:EOLhyphen"/>verne</hi> in all that ſtreete: all unanimouſly aſſured, they never met there.</p>
+            <p>The Congregation was ended at the ſecond meeting, on the 26. April. (The firſt was on the 24.) &amp; ſeverall of thoſe, who met, that ſame day, the 26. April, returned towards their Severall Reſidences. The Rector of Liege, who had the longeſt Iourney yet was at Liege on the 16. May Stilo vet: altho he had à ſlow paſſage by ſea, ſtayd one whole day at Roterdam, another at Antwerpe &amp; athird at Bruſ<g ref="char:EOLhyphen"/>ſelles,
+<pb n="4" facs="tcp:136979:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 18 -->
+on his way. Now after the ending of the Congregation, that is after the 26. April, nothing Could be don in the name of it, all ſuch attempts being illegall, invalid, &amp; never attempted by Ieſuits any where.</p>
+            <p>Hence all that M. Oates Says, of the <hi>Ieſuits dividing into ſeverall Clubs, Treaſonable things propoſed in them, Reſolutions taken uppon thoſe Propoſitions, Rewards promiſt to the Attempters, the Execution commended to, &amp; undertaken by ſeverall perſons,</hi> &amp;c. all theſe things, I ſay, are ab<g ref="char:EOLhyphen"/>ſolutely falſe, &amp; improbable: as appeares by what is ſayd already, &amp; shall be further evidenced by undeniable Proofes, both of Au<g ref="char:EOLhyphen"/>thenticall Atteſtations, &amp; Oathes of honeſt men, when it shall be required, &amp; à free hearing permitted, with ſecurity to the witneſſes.</p>
+            <trailer type="illustration">
+               <figure/>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
